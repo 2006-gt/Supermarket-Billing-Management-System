@@ -1,0 +1,5 @@
+ 1 bread 20 2
+ 2 butter 40 10
+ 3 milk 24 4
+ 4 Biscuit 30 7
+ 6 chocolate 56 9
